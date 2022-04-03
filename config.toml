@@ -18,7 +18,7 @@ ignore_colors = [
 
 [[structure]]
 name = "socki_niekbeats"
-file = "images/socki_niekbeats.jpg"
+file = "images/socki_niekbeats.png"
 startx = 1315
 starty = 1783
 priority = 3
